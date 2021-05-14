@@ -1,0 +1,19 @@
+.blogList {
+  padding-right: 24px;
+  border-right: 1px solid #eee;
+}
+
+.blogItem {
+  margin-bottom: 2em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px #ddd dashed;
+}
+
+.blogItem:first-child {
+  margin-top: 1.5em;
+}
+
+
+.sideBox {
+  padding-left: 24px;
+}

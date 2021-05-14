@@ -1,0 +1,38 @@
+.blogList {
+  padding-right: 24px;
+  border-right: 1px solid #eee;
+}
+
+.blogItem {
+  margin-bottom: 2em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px #ddd dashed;
+}
+
+.blogItem:first-child {
+  margin-top: 1.5em;
+}
+
+.sideBox {
+  padding-left: 24px;
+}
+
+.breadBox {
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee;
+}
+
+.current {
+  color: #fff;
+  background-color: #1890ff;
+  border: 1px solid #1890ff;
+}
+
+.link,
+.link:focus,
+.link:hover {
+  display: inline-block;
+  box-shadow: none;
+  text-decoration: none;
+}

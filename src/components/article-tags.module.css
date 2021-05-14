@@ -1,0 +1,16 @@
+.tagItem {
+  display: inline-block;
+  margin-bottom: 1em;
+}
+.tagCount {
+  position: relative;
+  top: -12px;
+  right: -1em;
+  display: inline-block;
+  min-width: 2em;
+  padding: 0 4px;
+  text-align: center;
+  border: 1px solid #f5222d;
+  border-radius: 8px;
+  background-color: #f5222d;
+}
