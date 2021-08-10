@@ -34,6 +34,6 @@ jobs:
       with:
         user_name: 'toweave'
         user_email: 'toweave@163.com'
-        personal_token: ${{ secrets.PERSONAL_TOKEN }}
+        personal_token: ${{ secrets.BLOG_TOKEN }}
         publish_branch: gh-pages 
         publish_dir: ./public
