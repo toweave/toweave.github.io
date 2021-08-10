@@ -4,7 +4,7 @@ module.exports = {
     title: `Toweave's blog. Power by Gatsby & React.`,
     author: `Toweave`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://toweave.github.io/`,
     social: {
       twitter: `kylemathews`
     }
